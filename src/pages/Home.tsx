@@ -9,7 +9,6 @@ export const Home = () => {
                     Beheer je financiën op een eenvoudige en efficiënte manier.
                 </p>
             </header>
-
             <div className="flex flex-col space-y-4">
                 <Link to="/transactions">
                     <button className="px-6 py-3 bg-blue-600 text-white rounded-md shadow-md hover:bg-blue-700">
